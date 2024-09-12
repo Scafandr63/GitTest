@@ -1,0 +1,2 @@
+# GitTest
+ConsoleWriteLine("Hello World");
